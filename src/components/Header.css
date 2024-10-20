@@ -1,5 +1,5 @@
 .header {
-    background-color: #333;
+    background-color: #EBADBA;
     color: #fff;
     padding: 1rem 2rem;
 }
@@ -9,7 +9,7 @@
     justify-content: space-between;
     align-items: center;
     max-width: 1200px;
-    margin: 0;
+    margin: 0 auto;
 }
 
 .name {
