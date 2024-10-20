@@ -1,6 +1,7 @@
 import React from "react"
 import Header from "./components/Header"
 import About from "./components/About"
+import Projects from "./components/Projects"
 
 const App: React.FC = () => {
   return (
@@ -8,7 +9,7 @@ const App: React.FC = () => {
       {<Header />}
       <main>
         <About />
-        {/* <Projects /> */}
+        <Projects />
         {/* <Contact /> */}
       </main>
     </div>
