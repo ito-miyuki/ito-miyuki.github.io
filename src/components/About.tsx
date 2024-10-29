@@ -9,7 +9,7 @@ const About: React.FC = () => {
                 <div className="about-text">
                     <h2>About Me</h2>
                     <p>
-                        Hello! I'm a passionate web developer with experience in React and modern web technologies. I love creating intuitive and efficient user interfaces.
+                        Hello! I'm a passionate web developer with experience in React and modern web technologies. I am currently studying at Hive Helsinki. I love creating intuitive and efficient user interfaces.
                     </p>
                     <p>
                         When I'm not coding, you can find me watching Youtube on a couch.
