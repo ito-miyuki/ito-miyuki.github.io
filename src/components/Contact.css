@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .contact {
     padding: 4rem 2rem;
     background-color: #F2F2F2;
@@ -53,7 +57,7 @@ button[type="submit"] {
     transition: background-color 0.3s ease;
   }
 
-button[type="submit"] :hover {
+button[type="submit"]:hover {
     background-color: #555;
 }
 
