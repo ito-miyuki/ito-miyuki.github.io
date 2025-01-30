@@ -7,7 +7,7 @@ const About: React.FC = () => {
         <section className="about">
             <div className="about-content">
                 <div className="about-text">
-                    <h2>Hello I'm Miyuki Ito.<br/>Software  <span className="outline-text">Developer</span><br/>Based in Helsinki</h2>
+                    <h2>Hello I'm Miyuki.<br/>Software  <span className="outline-text">Developer</span><br/>Based in Helsinki</h2>
                     <p>
                         Software engineering student at Hive Helsinki, always eager to learn and grow. Passionate about problem-solving and creating user-friendly solutions, with a background in growth hacking and a curious mindset.
                     </p>
