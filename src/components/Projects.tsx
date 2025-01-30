@@ -1,5 +1,7 @@
 import React from "react"
 import "./Projects.css"
+import HighlightText from "./HighlightText";
+import "./HighlightText.css"
 import project1 from "../assets/C_Language_Logo.jpg"
 import project2 from "../assets/cub3d.jpeg"
 import project3 from "../assets/bash.jpg"
@@ -35,7 +37,9 @@ const Projects: React.FC = () => {
     return (
         <section id="projects" className="projects">
             <div className="projects-content">
-                <h2>My Projects</h2>
+                <span className="highlight">
+                <h2><HighlightText>My Projects</HighlightText></h2>
+                    </span>
                 <div className="project-grid">
                     {projects.map((project, index) => (
                         <a href={project.link} key={index} className="project-card" target="_blank" rel="noopener noreferrer">
