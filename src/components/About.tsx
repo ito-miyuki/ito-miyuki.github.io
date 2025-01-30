@@ -9,10 +9,10 @@ const About: React.FC = () => {
                 <div className="about-text">
                     <h2>Hello I'm Miyuki Ito.<br/>Software  <span className="outline-text">Developer</span><br/>Based in Helsinki</h2>
                     <p>
-                        Software engineering student at Hive Helsinki, eager to apply problem-solving and development skills to building impactful and user-friendly healthcare technology.
+                        Software engineering student at Hive Helsinki, always eager to learn and grow. Passionate about problem-solving and creating user-friendly solutions, with a background in growth hacking and a curious mindset.
                     </p>
                     <p>
-                        When I'm not coding, you can find me playing a guitar or watching Netflix on a couch.
+                        When I'm not coding, you can find me playing a guitar or brewing coffee.
                     </p>
                 </div>
                 <div className="about-image">
