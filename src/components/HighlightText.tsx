@@ -13,7 +13,7 @@ const HighlightText: React.FC<HighlightTextProps> = ({ children }) => {
             <motion.span
                 initial={{ scaleX: 0}}
                 animate={{ scaleX: 1}}
-                transition={{ duration: 0.5, ease: "easeInOut" }}
+                transition={{ duration: 1, ease: "easeInOut" }}
                 className="marker"
             />
         </span>
