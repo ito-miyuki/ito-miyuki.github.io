@@ -14,7 +14,7 @@ const About: React.FC = () => {
                     animate={{ scaleX: 1}}
                     transition={{ duration: 1, ease: "easeInOut" }}
                     >
-                        Hello I'm Miyuki.<br/>Software  <span className="outline-text">Developer</span><br/>Based in Helsinki
+                        <span className="thinner-text">Hello I'm</span> Miyuki<br/>Software <span className="outline-text">Developer</span><br/><span className="thinner-text">Based in </span>Helsinki
                     </motion.h2>
                     <p>
                         Software engineering student at Hive Helsinki, always eager to learn and grow. Passionate about problem-solving and creating user-friendly solutions, with a background in growth hacking and a curious mindset.

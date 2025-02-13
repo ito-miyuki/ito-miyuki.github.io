@@ -9,6 +9,10 @@
     -webkit-text-stroke:2px black;
 }
 
+.thinner-text {
+    font-weight: 300;
+}
+
 .about-content {
     display: flex;
     justify-content: space-between;
